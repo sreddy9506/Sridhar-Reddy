@@ -44,4 +44,4 @@ ITIL V3 Certified from Udmey
 
 Want to chat? Contact @
 -----------------------
-[![CC0](https://github.com/sreddy9506/Sridhar-Reddy/Source/Images/linkedin-button.jpg)](https://www.linkedin.com/in/sridhar-kontham-46bb51130/)
+[![LinkedIN](https://github.com/sreddy9506/Sridhar-Reddy/Source/Images/linkedin-button.jpg)](https://www.linkedin.com/in/sridhar-kontham-46bb51130/)
